@@ -3,7 +3,7 @@ import { Inter } from "next/font/google";
 // import '../globals.css'
 
 export const metadata = {
-  title: "hengo",
+  title: "Hengo",
   description: "A nextjs meta hengo Application",
 };
 
